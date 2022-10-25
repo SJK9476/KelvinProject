@@ -1,7 +1,7 @@
 // Kelvin Project
 
 const kelvin = 580;
-// 1 kelvin will always equal 293
+// Forecast for today
 
 var celsius = kelvin - 273;
 // To convert Kelvin to celsius you need to subtract 273
